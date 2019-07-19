@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este es un ejemplo sobre cómo usar Rspec con Rails API+devise_token_auth.
 
-Things you may want to cover:
+* ruby 2.5.5
+* devise_token_auth 1.1.0
+* rspec 3.8
+* faker
+* factory_bot
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
